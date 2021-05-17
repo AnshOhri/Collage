@@ -1,0 +1,21 @@
+body{
+  background-color: #c0fefc;
+}
+
+.heading{
+  font-size: 50px;
+  color: #04009a;
+}
+
+.mainpara{
+  font-size: 25px;
+}
+
+.heading3{
+  font-size: 40px;
+  background-color: #3edbf0;
+}
+
+.heading3:hover{
+  background-color: #fdbaf8;
+}
