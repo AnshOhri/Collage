@@ -1,21 +1,38 @@
 body{
-  background-color: #c0fefc;
-}
+  background-image: url("BG.jpg");
 
+}
 .heading{
-  font-size: 50px;
-  color: #04009a;
+  font-size: 55px;
+  color: white;
+  margin-left: 375px;
+  font-style: oblique;
 }
 
 .mainpara{
   font-size: 25px;
+  color: white;
+  margin-left: 375px;
+  font-style: oblique;
 }
 
 .heading3{
-  font-size: 40px;
-  background-color: #3edbf0;
+  font-size: 25px;
+  color: white;
+  margin-left: 580px;
+  font-style: oblique;
 }
+.heading2{
+  color: white;
+  margin-left: 600px;
+  font-style: oblique;
+}
+.ha{
+  color: white;
+  margin-left: 375px;
+  font-style: oblique;
+}
+.heading3:active{
+  color: white;
 
-.heading3:hover{
-  background-color: #fdbaf8;
 }
