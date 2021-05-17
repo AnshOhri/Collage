@@ -4,35 +4,30 @@ body{
 }
 .heading{
   font-size: 55px;
-  color: white;
-  margin-left: 375px;
-  font-style: oblique;
+  color: #afb9c8;
+  margin-left: 370px;
 }
 
 .mainpara{
   font-size: 25px;
-  color: white;
-  margin-left: 375px;
-  font-style: oblique;
+  color: #d8e3e7;
+  margin-left: 385px;
 }
 
 .heading3{
   font-size: 25px;
-  color: white;
+  color: #d8e3e7;
   margin-left: 580px;
-  font-style: oblique;
 }
 .heading2{
-  color: white;
-  margin-left: 600px;
-  font-style: oblique;
+  color: #d8e3e7;
+  margin-left: 610px;
 }
 .ha{
-  color: white;
-  margin-left: 375px;
-  font-style: oblique;
+  color: #d8e3e7;
+  margin-left: 310px;
 }
 .heading3:active{
-  color: white;
+  color: #d8e3e7;
 
 }
